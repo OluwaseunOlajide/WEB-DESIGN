@@ -1,0 +1,19 @@
+body  {
+    background-image: url("AnimeX_1323165.jpeg");
+color: white;
+background-color: cyan;
+background-repeat: no-repeat;
+background-size:  cover;
+}
+.members-core{
+    padding: auto;
+   text-align: center;
+   color: gold;
+}
+.group {
+    margin: 0 auto 3.25rem auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 3.25rem;
+
+}
